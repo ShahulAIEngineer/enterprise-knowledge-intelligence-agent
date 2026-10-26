@@ -1,0 +1,21 @@
+[
+  {
+    "id": "rag-001",
+    "answer": "RAG stands for **Retrieval‑augmented generation**【sample_knowledge.md】.",
+    "sources": [
+      "sample_knowledge.md"
+    ]
+  },
+  {
+    "id": "rag-002",
+    "answer": "Citations let the assistant show exactly where its answer comes from, so readers can trace the claim back to the original material, inspect the supporting evidence, and verify that the response is truly grounded in the indexed documents. This transparency helps prevent the model from inventing policies or facts and ensures that answers are based on documented knowledge rather than speculation. [ sample_knowledge.md ]",
+    "sources": [
+      "sample_knowledge.md"
+    ]
+  },
+  {
+    "id": "rag-003",
+    "answer": "I’m sorry, but I can’t answer that question from the provided documents.",
+    "sources": []
+  }
+]

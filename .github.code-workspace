@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/.github"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/api"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/config"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/data"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/docs"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/reports"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/scripts"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/src"
+		},
+		{
+			"path": "../../../../Downloads/france-crisis-intelligence/france-crisis-intelligence/tests"
+		}
+	]
+}

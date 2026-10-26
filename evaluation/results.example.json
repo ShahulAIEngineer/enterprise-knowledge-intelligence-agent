@@ -1,0 +1,7 @@
+[
+  {
+    "id": "rag-001",
+    "answer": "RAG stands for retrieval-augmented generation.",
+    "sources": ["sample_knowledge.md"]
+  }
+]

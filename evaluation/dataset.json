@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rag-001",
+    "question": "What does RAG stand for?",
+    "expected_answer_contains": ["retrieval-augmented generation"],
+    "required_source": "sample_knowledge.md"
+  },
+  
+ {
+   "id": "rag-002",
+   "question": "Why should an assistant cite internal documents?",
+   "expected_answer_contains": ["trace the claim", "supporting evidence"],
+   "required_source": "sample_knowledge.md"
+  },
+
+ {
+    "id": "rag-003",
+    "question": "What is the company's secret acquisition plan?",
+    "expected_answer_contains": ["could not find", "not support"],
+    "required_source": null
+  }
+]
