@@ -4,7 +4,6 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-
 BASE_DIR = Path(__file__).resolve().parent
 DATASET_PATH = BASE_DIR / "dataset.json"
 RESULTS_PATH = BASE_DIR / "results.json"
